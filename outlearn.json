@@ -1,0 +1,47 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "angular",
+      "title" : "Understand Angular In-depth",
+      "description" : "Get a thorough understanding of Angular. Learn from a broad combination of blog posts by independent authors and developer guides by the Angular team. You'll get to see in detail the awesomeness of Angular and how it can handle the boilerplate so you can get cranking on the most valuable parts of your app.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/shieldsensei/master/assets/mosaic.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"page" : "./pages/welcome.md"},
+        {"module" : "jeremylikness/10-reasons-learn-angularjs"},
+        {"module" : "angularjs/introduction"},
+        {"module" : "angularjs/concepts"},
+        {"module" : "sun/things-about-angular"},
+        {"module" : "angularjs/databinding"},
+        {"module" : "angularjs/controller"},
+        {"module" : "angularjs/services"},
+        {"module" : "angularjs/scope"},
+        {"module" : "angularjs/di"},
+        {"module" : "angularjs/templates"},
+        {"module" : "angularjs/expression"},
+        {"module" : "angularjs/filter"},
+        {"module" : "angularjs/forms"},
+        {"module" : "angularjs/directive"},
+        {"module" : "toddmotto/angular-directives"},
+        {"module" : "angularjs/animations"},
+        {"module" : "angularjs/compiler"},
+        {"module" : "angularjs/providers"},
+        {"module" : "angularjs/bootstrap"},
+        {"module" : "angularjs/unit-testing"},
+        {"module" : "angularjs/e2e-testing"},
+        {"module" : "angularjs/location"},
+        {"module" : "angularjs/css-styling"},
+        {"module" : "angularjs/production"}
+      ]
+    }
+
+  ],
+
+  "modules" : [
+  ],
+
+  "assets" : [
+  ]
+}
